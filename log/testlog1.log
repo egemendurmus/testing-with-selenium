@@ -1,0 +1,709 @@
+2015-11-24 19:11:29,010 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:11:29,117 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:11:33,067 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 19:13:14,023 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:13:14,030 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:13:23,479 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 19:13:59,273 [main] INFO com.example.starts.Testsenerio - n11.com - Alışverişin Uğurlu Adresi
+ assertion_steps_1 (1- open firefox browser 2-login facebook 3-entry mainpage 'n11.com') -> Part executed
+2015-11-24 19:13:59,528 [main] INFO com.example.starts.Testsenerio - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-24 19:14:04,469 [main] INFO com.example.starts.Testsenerio - find KİTAP and click
+2015-11-24 19:14:10,844 [main] INFO com.example.starts.Testsenerio - find Yazarlar and click
+2015-11-24 19:14:10,856 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_2_3_4 -> Part executed 
+2015-11-24 19:14:10,885 [main] INFO com.example.starts.Testsenerio - go to the authors names page start with 'M'
+2015-11-24 19:14:10,925 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 19:14:19,135 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 19:14:22,363 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,400 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,421 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,448 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,468 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,498 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,535 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,557 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,578 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,598 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,623 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,644 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,660 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,678 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,697 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,716 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,733 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,751 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,768 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,785 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,804 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,833 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =20
+2015-11-24 19:14:22,856 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,891 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,930 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,965 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:22,982 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,001 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,018 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,037 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,057 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,075 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,130 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,148 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,164 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,181 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,200 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,217 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,235 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,258 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,275 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,298 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,329 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =20
+2015-11-24 19:14:23,349 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,367 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,383 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,401 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,418 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,436 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,461 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,480 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,497 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,569 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,589 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,609 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,627 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,644 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,661 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,683 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,706 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,726 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,744 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,762 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,792 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =19
+2015-11-24 19:14:23,813 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,831 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,847 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,864 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,882 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,900 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,918 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,935 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,952 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,971 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:23,990 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,011 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,031 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,047 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,066 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,084 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,104 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,122 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,139 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:14:24,140 [main] INFO com.example.starts.Testsenerio - for M have 80 authors
+2015-11-24 19:14:24,157 [main] INFO com.example.starts.Testsenerio - first page last element Start with =Marie-Sabine Roger (1)
+2015-11-24 19:14:24,158 [main] INFO com.example.starts.Testsenerio - calling method
+2015-11-24 19:14:29,771 [main] INFO com.example.starts.Testsenerio - direct 2nd page startwith 'M'
+2015-11-24 19:14:29,827 [main] INFO com.example.starts.Testsenerio - listing second page
+2015-11-24 19:14:29,857 [main] INFO com.example.starts.Testsenerio - second page start with = Mario Bellatin (1)
+2015-11-24 19:14:29,857 [main] INFO com.example.starts.Testsenerio - web site hasn't got  error about paging
+2015-11-24 19:14:45,289 [main] INFO com.example.starts.Testsenerio - Start testing for 'Z'
+2015-11-24 19:16:09,952 [main] INFO com.example.starts.Testsenerio - navigate and refresh
+2015-11-24 19:16:09,953 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 19:16:10,003 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 19:16:10,032 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,054 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,076 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,097 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,121 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,143 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,167 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,190 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,211 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,236 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,256 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,273 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,292 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,310 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,332 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,351 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,368 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,388 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,407 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,426 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,444 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,468 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =11
+2015-11-24 19:16:10,486 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,504 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,523 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,543 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,561 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,581 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,598 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,617 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,636 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,653 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:10,672 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:16:20,695 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =0
+2015-11-24 19:16:30,710 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =0
+2015-11-24 19:16:30,711 [main] ERROR com.example.starts.Testsenerio - Z32 authors
+2015-11-24 19:16:30,746 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_5_6 -> Part executed after controlled last page first elemet start with 'Z'
+2015-11-24 19:16:30,747 [main] INFO com.example.starts.Testsenerio - last assert 'false' because ı want show to these asserts works
+2015-11-24 19:33:30,623 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:33:30,646 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:33:44,551 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 19:34:02,483 [main] INFO com.example.starts.Testsenerio - n11.com
+ assertion_steps_1 (1- open firefox browser 2-login facebook 3-entry mainpage 'n11.com') -> Part executed
+2015-11-24 19:34:09,464 [main] INFO com.example.starts.Testsenerio - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-24 19:34:13,787 [main] INFO com.example.starts.Testsenerio - find KİTAP and click
+2015-11-24 19:34:18,830 [main] INFO com.example.starts.Testsenerio - find Yazarlar and click
+2015-11-24 19:34:18,848 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_2_3_4 -> Part executed 
+2015-11-24 19:34:18,991 [main] INFO com.example.starts.Testsenerio - go to the authors names page start with 'M'
+2015-11-24 19:34:19,009 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 19:34:27,323 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 19:34:30,169 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,208 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,236 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,256 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,283 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,314 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,333 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,361 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,381 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,400 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,428 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,451 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,470 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,488 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,539 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,565 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,604 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,622 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,639 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,657 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,678 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,710 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =20
+2015-11-24 19:34:30,737 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,760 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,786 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,825 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,843 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,863 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,882 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,900 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,917 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,934 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,956 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:30,998 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,016 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,034 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,053 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,080 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,096 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,117 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,137 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,155 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,187 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =20
+2015-11-24 19:34:31,220 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,239 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,257 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,275 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,293 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,313 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,339 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,371 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,395 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,414 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,434 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,460 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,486 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,510 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,636 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,657 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,685 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,703 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,720 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,740 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,764 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =19
+2015-11-24 19:34:31,783 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,799 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,847 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,864 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,881 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,902 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,921 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,939 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,960 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:31,996 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,013 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,033 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,055 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,073 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,091 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,108 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,125 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,143 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,168 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 19:34:32,168 [main] INFO com.example.starts.Testsenerio - for M have 80 authors
+2015-11-24 19:34:32,202 [main] INFO com.example.starts.Testsenerio - first page last element Start with =Marie-Sabine Roger (1)
+2015-11-24 19:34:32,202 [main] INFO com.example.starts.Testsenerio - calling method
+2015-11-24 19:34:37,952 [main] INFO com.example.starts.Testsenerio - direct 2nd page startwith 'M'
+2015-11-24 19:34:37,999 [main] INFO com.example.starts.Testsenerio - listing second page
+2015-11-24 19:34:38,038 [main] INFO com.example.starts.Testsenerio - second page start with = Mario Bellatin (1)
+2015-11-24 19:34:38,038 [main] INFO com.example.starts.Testsenerio - web site hasn't got  error about paging
+2015-11-24 19:34:53,640 [main] INFO com.example.starts.Testsenerio - Start testing for 'Z'
+2015-11-24 19:36:18,443 [main] INFO com.example.starts.Testsenerio - navigate and refresh
+2015-11-24 19:36:18,519 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 19:36:19,422 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 19:36:19,461 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:36:21,139 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 19:36:46,226 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:36:46,235 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:43:11,631 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:43:11,640 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:47:38,587 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:47:38,619 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:48:15,405 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:48:15,428 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:50:22,269 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:50:43,086 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:52:23,448 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:53:41,310 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:53:41,320 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:53:51,921 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 19:54:20,094 [main] INFO com.example.starts.Testsenerio - n11.com - Alışverişin Uğurlu Adresi
+ assertion_steps_1 (1- open firefox browser 2-login facebook 3-entry mainpage 'n11.com') -> Part executed
+2015-11-24 19:54:20,286 [main] INFO com.example.starts.Testsenerio - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-24 19:56:55,101 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:58:03,249 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 19:58:03,279 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 19:58:10,638 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 19:59:56,267 [main] INFO com.example.starts.Testsenerio - n11.com - Alışverişin Uğurlu Adresi
+ assertion_steps_1 (1- open firefox browser 2-login facebook 3-entry mainpage 'n11.com') -> Part executed
+2015-11-24 19:59:56,467 [main] INFO com.example.starts.Testsenerio - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-24 19:59:59,319 [main] INFO com.example.starts.Testsenerio - find KİTAP and click
+2015-11-24 20:00:05,857 [main] INFO com.example.starts.Testsenerio - find Yazarlar and click
+2015-11-24 20:00:05,859 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_2_3_4 -> Part executed 
+2015-11-24 20:00:06,031 [main] INFO com.example.starts.Testsenerio - go to the authors names page start with 'M'
+2015-11-24 20:00:06,036 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 20:00:12,446 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 20:00:15,833 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,854 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,876 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,897 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,918 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,946 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,971 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:15,995 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,017 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,033 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,053 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,079 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,099 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,117 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,136 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,154 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,176 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,195 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,214 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,230 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,250 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,281 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =20
+2015-11-24 20:00:16,301 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,330 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,354 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,372 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,391 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,410 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,428 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,447 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,466 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,484 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,500 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,516 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,535 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,554 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,573 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,591 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,610 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,628 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,646 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,665 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,697 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =20
+2015-11-24 20:00:16,720 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,740 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,762 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,783 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,799 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,818 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,843 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,864 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,880 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,898 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,917 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,934 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,956 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,976 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:16,996 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,014 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,034 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,056 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,074 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,092 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,119 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =19
+2015-11-24 20:00:17,138 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,158 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,176 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,193 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,211 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,256 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,273 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,292 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,310 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,328 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,346 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,364 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,386 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,405 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,423 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,441 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,462 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,481 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,499 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:00:17,500 [main] INFO com.example.starts.Testsenerio - for M have 80 authors
+2015-11-24 20:00:17,519 [main] INFO com.example.starts.Testsenerio - first page last element Start with =Marie-Sabine Roger (1)
+2015-11-24 20:00:17,519 [main] INFO com.example.starts.Testsenerio - calling method
+2015-11-24 20:00:25,915 [main] INFO com.example.starts.Testsenerio - direct 2nd page startwith 'M'
+2015-11-24 20:00:25,951 [main] INFO com.example.starts.Testsenerio - listing second page
+2015-11-24 20:00:25,979 [main] INFO com.example.starts.Testsenerio - second page start with = Mario Bellatin (1)
+2015-11-24 20:00:25,980 [main] INFO com.example.starts.Testsenerio - web site hasn't got  error about paging
+2015-11-24 20:00:41,379 [main] INFO com.example.starts.Testsenerio - Start testing for 'Z'
+2015-11-24 20:00:51,075 [main] INFO com.example.starts.Testsenerio - navigate and refresh
+2015-11-24 20:00:51,077 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 20:00:51,114 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 20:00:51,145 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,166 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,188 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,209 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,233 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,256 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,277 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,301 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,323 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,346 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,366 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,384 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,403 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,421 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,442 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,460 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,478 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,504 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,546 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,597 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,617 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,640 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =11
+2015-11-24 20:00:51,660 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,677 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,697 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,716 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,733 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,753 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,771 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,790 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,809 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,827 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:00:51,846 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:01:01,874 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =0
+2015-11-24 20:01:11,908 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =0
+2015-11-24 20:01:11,909 [main] ERROR com.example.starts.Testsenerio - Z32 authors
+2015-11-24 20:01:11,951 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_5_6 -> Part executed after controlled last page first elemet start with 'Z'
+2015-11-24 20:01:11,952 [main] INFO com.example.starts.Testsenerio - last assert 'false' because ı want show to these asserts works
+2015-11-24 20:02:41,654 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 20:02:41,661 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 20:04:05,630 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 20:04:32,303 [main] INFO com.example.starts.Testsenerio - n11.com - Alışverişin Uğurlu Adresi
+ assertion_steps_1 (1- open firefox browser 2-login facebook 3-entry mainpage 'n11.com') -> Part executed
+2015-11-24 20:04:32,498 [main] INFO com.example.starts.Testsenerio - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-24 20:04:37,014 [main] INFO com.example.starts.Testsenerio - find KİTAP and click
+2015-11-24 20:04:43,377 [main] INFO com.example.starts.Testsenerio - find Yazarlar and click
+2015-11-24 20:04:43,379 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_2_3_4 -> Part executed 
+2015-11-24 20:04:43,425 [main] INFO com.example.starts.Testsenerio - go to the authors names page start with 'M'
+2015-11-24 20:04:43,428 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 20:04:53,885 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 20:04:53,908 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:53,933 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:53,955 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:53,979 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,000 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,030 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,059 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,087 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,107 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,135 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,158 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,185 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,205 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,230 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,261 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,281 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,300 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,317 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,351 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,368 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,394 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,427 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =20
+2015-11-24 20:04:54,449 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,469 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,488 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,505 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,524 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,541 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,558 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,575 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,591 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,609 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,627 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,646 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,664 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,681 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,698 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,716 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,733 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,751 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,768 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,785 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,820 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =20
+2015-11-24 20:04:54,842 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,867 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,886 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,903 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,923 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,941 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,964 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,982 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:54,998 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,014 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,031 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,048 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,073 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,091 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,110 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,129 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,152 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,170 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,189 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,208 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,233 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =19
+2015-11-24 20:04:55,250 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,266 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,282 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,300 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,317 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,335 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,354 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,371 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,391 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,410 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,428 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,446 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,469 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,487 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,504 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,525 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,542 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,559 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,577 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:04:55,578 [main] INFO com.example.starts.Testsenerio - for M have 80 authors
+2015-11-24 20:04:55,601 [main] INFO com.example.starts.Testsenerio - first page last element Start with =Marie-Sabine Roger (1)
+2015-11-24 20:04:55,601 [main] INFO com.example.starts.Testsenerio - calling method
+2015-11-24 20:05:01,054 [main] INFO com.example.starts.Testsenerio - direct 2nd page startwith 'M'
+2015-11-24 20:05:01,091 [main] INFO com.example.starts.Testsenerio - listing second page
+2015-11-24 20:05:01,117 [main] INFO com.example.starts.Testsenerio - second page start with = Mario Bellatin (1)
+2015-11-24 20:05:01,117 [main] INFO com.example.starts.Testsenerio - web site hasn't got  error about paging
+2015-11-24 20:05:16,314 [main] INFO com.example.starts.Testsenerio - Start testing for 'Z'
+2015-11-24 20:05:27,125 [main] INFO com.example.starts.Testsenerio - navigate and refresh
+2015-11-24 20:05:27,126 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 20:05:27,162 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 20:05:27,189 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,210 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,231 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,252 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,275 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,297 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,318 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,345 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,365 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,383 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,404 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,421 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,441 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,459 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,481 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,500 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,518 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,539 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,560 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,577 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,596 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,621 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =11
+2015-11-24 20:05:27,640 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,660 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,679 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,698 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,717 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,739 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,756 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,778 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,798 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,815 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:27,832 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:05:38,790 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =0
+2015-11-24 20:07:35,251 [main] INFO com.example.starts.Testsenerio - START TESTİNG
+2015-11-24 20:07:35,255 [main] INFO com.example.starts.Testsenerio - open firefox browser
+2015-11-24 20:07:46,546 [main] INFO com.example.starts.Testsenerio - STARTİNG Facebook Login
+2015-11-24 20:08:16,387 [main] INFO com.example.starts.Testsenerio - n11.com - Alışverişin Uğurlu Adresi
+ assertion_steps_1 (1- open firefox browser 2-login facebook 3-entry mainpage 'n11.com') -> Part executed
+2015-11-24 20:08:16,586 [main] INFO com.example.starts.Testsenerio - in left side has menu and find KİTAP,MÜZİK,FİLM,OYUN and click
+2015-11-24 20:08:19,736 [main] INFO com.example.starts.Testsenerio - find KİTAP and click
+2015-11-24 20:08:25,823 [main] INFO com.example.starts.Testsenerio - find Yazarlar and click
+2015-11-24 20:08:25,825 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_2_3_4 -> Part executed 
+2015-11-24 20:08:25,860 [main] INFO com.example.starts.Testsenerio - go to the authors names page start with 'M'
+2015-11-24 20:08:25,861 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 20:08:32,126 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 20:08:36,227 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,248 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,269 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,289 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,311 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,338 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,361 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,385 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,406 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,424 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,446 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,470 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,490 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,508 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,527 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,547 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,568 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,586 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,606 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,626 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,646 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,680 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =20
+2015-11-24 20:08:36,699 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,724 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,747 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,767 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,785 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,802 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,823 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,842 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,861 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,880 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,897 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,913 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,931 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,950 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,972 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:36,991 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,010 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,029 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,047 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,065 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,097 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =20
+2015-11-24 20:08:37,117 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,140 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,160 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,181 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,200 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,217 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,241 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,259 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,276 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,294 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,313 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,331 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,358 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,375 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,393 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,411 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,434 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,455 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,474 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,498 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,523 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =19
+2015-11-24 20:08:37,547 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,567 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,587 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,603 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,620 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,642 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,697 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,713 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,730 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,749 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,767 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,787 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,809 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,829 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,846 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,865 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,882 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,901 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,918 [main] INFO com.example.starts.Testsenerio - Starts with 'M' = True
+2015-11-24 20:08:37,918 [main] INFO com.example.starts.Testsenerio - for M have 80 authors
+2015-11-24 20:08:37,935 [main] INFO com.example.starts.Testsenerio - first page last element Start with =Marie-Sabine Roger (1)
+2015-11-24 20:08:37,936 [main] INFO com.example.starts.Testsenerio - calling method
+2015-11-24 20:08:44,322 [main] INFO com.example.starts.Testsenerio - direct 2nd page startwith 'M'
+2015-11-24 20:08:44,361 [main] INFO com.example.starts.Testsenerio - listing second page
+2015-11-24 20:08:44,390 [main] INFO com.example.starts.Testsenerio - second page start with = Mario Bellatin (1)
+2015-11-24 20:08:44,390 [main] INFO com.example.starts.Testsenerio - web site hasn't got  error about paging
+2015-11-24 20:09:02,350 [main] INFO com.example.starts.Testsenerio - Start testing for 'Z'
+2015-11-24 20:10:27,991 [main] INFO com.example.starts.Testsenerio - navigate and refresh
+2015-11-24 20:10:27,991 [main] INFO com.example.starts.Testsenerio - Authors page has 4 div[] now controlled one by one
+2015-11-24 20:10:28,026 [main] INFO com.example.starts.Testsenerio - DIV1 SİZE = 21
+2015-11-24 20:10:28,052 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,071 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,093 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,116 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,139 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,163 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,222 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,299 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,323 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,354 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,385 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,430 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,452 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,471 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,490 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,508 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,526 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,543 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,561 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,577 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,597 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,621 [main] INFO com.example.starts.Testsenerio - DIV2 SIZE =11
+2015-11-24 20:10:28,642 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,660 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,680 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,699 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,718 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,737 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,757 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,774 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,792 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,808 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:28,824 [main] ERROR com.example.starts.Testsenerio - Starts with 'Z' = True
+2015-11-24 20:10:38,846 [main] INFO com.example.starts.Testsenerio - DIV3 SIZE =0
+2015-11-24 20:10:48,970 [main] INFO com.example.starts.Testsenerio - DIV4 SIZE =0
+2015-11-24 20:10:48,970 [main] ERROR com.example.starts.Testsenerio - Z32 authors
+2015-11-24 20:10:49,053 [main] INFO com.example.starts.Testsenerio - 
+ assertion_steps_5_6 -> Part executed after controlled last page first elemet start with 'Z'
+2015-11-24 20:10:49,053 [main] INFO com.example.starts.Testsenerio - last assert 'false' because ı want show to these asserts works
